@@ -1,8 +1,8 @@
 # Self-Driving-Car
 
-Check out the video for predicted steering angles at https://youtu.be/dToEcbyKkC8
-
 My first try at Self Driving Car.
+
+Check out the video for predicted steering angles at https://youtu.be/dToEcbyKkC8
 
 This project is purely completed for learning purposes.
 
