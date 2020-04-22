@@ -11,4 +11,4 @@ Made some minor changes to the architecture like added dropouts for fully connec
 
 Next: Planning to use data augmentation to optimize model's performance.
 
-Stay tuned for more information.
+Stay tuned for more information and full references.
